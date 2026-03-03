@@ -1,0 +1,1 @@
+{"name":"@flowforge/sdk","version":"2.4.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsup src/index.ts --dts","test":"vitest","lint":"eslint src/"},"dependencies":{"axios":"^1.6.7"},"devDependencies":{"typescript":"^5.3.3","tsup":"^8.0.0","vitest":"^1.2.0","eslint":"^8.56.0"}}
